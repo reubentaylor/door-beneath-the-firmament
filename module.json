@@ -1,0 +1,38 @@
+{
+  "id": "door-beneath-the-firmament",
+  "title": "Door Beneath the Firmament",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "12",
+    "verified": "13"
+  },
+  "description": "<p>A conversion of a funnel to the FLAIL RPG system</p>",
+  "authors": [
+    {
+      "name": "Reuben Taylor",
+      "url": "https://bashert1967.itch.io/",
+      "discord": "dmreuben",
+      "flags": {}
+    }
+  ],
+  "url": "https://github.com/reubentaylor/door-beneath-the-firmament/",
+  "flags": {
+    "canUpload": true
+  },
+  "packs": [
+    {
+      "name": "door-beneath-the-firmament",
+      "label": "Door Beneath The Firmament",
+      "path": "packs/door-beneath-the-firmament",
+      "type": "Adventure",
+      "system": "flail",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ],
+  "manifest": "https://github.com/reubentaylor/door-beneath-the-firmament/releases/latest/download/module.json",
+  "download": "https://github.com/reubentaylor/door-beneath-the-firmament/releases/download/v1.0.0/module.zip"
+}
