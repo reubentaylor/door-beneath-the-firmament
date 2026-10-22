@@ -2,7 +2,7 @@
 
 An adventure module for the unofficial **FLAIL** system for Foundry VTT.
 
-[One or two sentences about the adventure: premise, setting, intended character level.]
+This is a conversion of a funnel designed for 4-6 level 1 PCs with hirelings.
 
 ## Installation
 
